@@ -1,0 +1,26 @@
+{
+	"id": "0001",
+	"type": "donut",
+	"name": "Cake",
+	"ppu": "0.55",
+	"batters":
+		{
+			"batter":
+				{
+					"batter_0":{ "id": "1001", "type": "Regular" },
+					"batter_1":{ "id": "1002", "type": "Chocolate" },
+					"batter_2":{ "id": "1003", "type": "Blueberry" },
+					"batter_3":{ "id": "1004", "type": "Devil's Food" }
+				}
+		},
+	"topping":
+		{
+			"topping_0":{ "id": "5001", "type": "None" },
+			"topping_1":{ "id": "5002", "type": "Glazed" },
+			"topping_2":{ "id": "5005", "type": "Sugar" },
+			"topping_3":{ "id": "5007", "type": "Powdered Sugar" },
+			"topping_4":{ "id": "5006", "type": "Chocolate with Sprinkles" },
+			"topping_5":{ "id": "5003", "type": "Chocolate" },
+			"topping_6":{ "id": "5004", "type": "Maple" }
+		}
+}

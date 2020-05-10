@@ -1,0 +1,18 @@
+[
+	"rana",
+	"boi",
+	"ram",
+	["ram", "boi", {
+			"ram": "boi"
+		},
+		["temp1", "temp2"]
+	],
+	{
+		"ram": "boi",
+		"list": [{
+			"name": "boi"
+		}, {
+			"name": "temp"
+		}]
+	}
+]
