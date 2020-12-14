@@ -1,5 +1,5 @@
 # cpp-json-validtor
-simple json validtor written in cpp
+simple json validator written in cpp
 <br>
 To validate some json file
 <br>
